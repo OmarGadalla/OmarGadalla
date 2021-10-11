@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarGadalla
-- 👀 I’m interested in Software Development & Embedded Systems
-- 🌱 I’m currently learning Web Development and ARM-based Embedded Systems
+- 👀 I’m interested in Embedded Systems & Software Development
+- 🌱 I’m currently a junior software developer at Vodafone Egypt
 - 📫 How to reach me: *--- E-mail: omargadalla15@gmail.com --- LinkedIn: https://www.linkedin.com/in/omargadalla/ ---*
 
 <!---
